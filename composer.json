@@ -1,0 +1,25 @@
+{
+    "name": "sjzurek/slim3-skeleton",
+    "require": {
+        "slim/slim": "^3.7",
+        "monolog/monolog": "^1.22",
+        "slim/twig-view": "^2.2",
+        "slim/csrf": "^0.8.1",
+        "zeuxisoo/slim-whoops": "^0.6.0",
+        "slim/flash": "^0.2.0",
+        "illuminate/database": "^5.4",
+        "illuminate/events": "^5.4",
+        "fzaninotto/faker": "^1.6",
+        "vlucas/phpdotenv": "^2.4",
+        "twig/extensions": "^1.4"
+    },
+    "require-dev": {
+        "laravel/homestead": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "simon",
+            "email": "sjzurek@gmail.com"
+        }
+    ]
+}
